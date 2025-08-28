@@ -67,5 +67,5 @@ npm run build
 ---
 
 ## 📬 Contact  
-Created by **[Your Name](https://github.com/your-username)** ✨  
+Created by **Vibinraj Rajesh Kumar** ✨  
 Feel free to reach out if you want to collaborate or have questions!  
