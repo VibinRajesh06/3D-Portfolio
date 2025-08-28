@@ -20,21 +20,6 @@ A modern and interactive **3D portfolio website** built with React and Three.js 
 - **Framer Motion** – Smooth animations  
 
 ---
-
-## 📂 Project Structure  
-```
-3D-Portfolio/
-│── public/              # Static assets  
-│── src/  
-│   ├── Components/      # React components (Header, HeroSection, etc.)  
-│   ├── App.jsx          # Main app file  
-│   ├── index.css        # Global styles  
-│   └── index.js         # Entry point  
-│── package.json         # Project dependencies  
-│── .gitignore           # Ignored files and folders  
-│── README.md            # Project documentation  
-```
-
 ---
 
 ## 🚀 Getting Started  
