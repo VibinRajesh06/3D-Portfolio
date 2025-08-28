@@ -1,12 +1,76 @@
-# React + Vite
+# 🎨 3D Portfolio  
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and interactive **3D portfolio website** built with React and Three.js to showcase projects, skills, and experience in an engaging way.  
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ✨ Features  
+- 🌐 Interactive 3D design & animations  
+- 🖼️ Dynamic project showcase with details  
+- 📱 Fully responsive design (desktop, tablet, mobile)  
+- 🎭 Smooth transitions and modern UI/UX  
+- ⚡ Fast, lightweight, and easy to navigate  
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Tech Stack  
+- **React.js** – Frontend framework  
+- **Three.js / React Three Fiber** – 3D elements & animations  
+- **Tailwind CSS** – Styling  
+- **Framer Motion** – Smooth animations  
+
+---
+
+## 📂 Project Structure  
+```
+3D-Portfolio/
+│── public/              # Static assets  
+│── src/  
+│   ├── Components/      # React components (Header, HeroSection, etc.)  
+│   ├── App.jsx          # Main app file  
+│   ├── index.css        # Global styles  
+│   └── index.js         # Entry point  
+│── package.json         # Project dependencies  
+│── .gitignore           # Ignored files and folders  
+│── README.md            # Project documentation  
+```
+
+---
+
+## 🚀 Getting Started  
+
+### 1️⃣ Clone the repo  
+```bash
+git clone https://github.com/your-username/3D-Portfolio.git
+cd 3D-Portfolio
+```
+
+### 2️⃣ Install dependencies  
+```bash
+npm install
+```
+
+### 3️⃣ Run the development server  
+```bash
+npm run dev
+```
+or  
+```bash
+npm start
+```
+
+### 4️⃣ Build for production  
+```bash
+npm run build
+```
+
+---
+
+## 📸 Demo / Screenshots  
+(Add screenshots or a link to your live demo here)  
+
+---
+
+## 📬 Contact  
+Created by **[Your Name](https://github.com/your-username)** ✨  
+Feel free to reach out if you want to collaborate or have questions!  
