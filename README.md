@@ -66,11 +66,6 @@ npm run build
 
 ---
 
-## 📸 Demo / Screenshots  
-(Add screenshots or a link to your live demo here)  
-
----
-
 ## 📬 Contact  
 Created by **[Your Name](https://github.com/your-username)** ✨  
 Feel free to reach out if you want to collaborate or have questions!  
